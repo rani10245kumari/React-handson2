@@ -1,11 +1,10 @@
 
 import './App.css';
-
-import Form from './Handson2/Functional';
+import FormCompo from './Handson2/Functional';
 function App() {
   return (
     <div className="App">
-      <Form></Form>
+      <FormCompo></FormCompo>
     </div>
   );
 }
